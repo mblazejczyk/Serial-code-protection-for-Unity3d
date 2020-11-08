@@ -5,7 +5,7 @@
 # Step 1
 
 Import everything to your project! <br>
-From release: 
+From release: https://github.com/nibek1000/Serial-code-protection-for-Unity3d/releases/tag/1.0v
 
 # Step 2
 
