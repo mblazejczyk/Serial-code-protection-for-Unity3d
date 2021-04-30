@@ -1,3 +1,6 @@
+## If you have database
+You can use [Better serial number protection for unity](https://github.com/nibek1000/Better-serial-number-protection-for-unity)
+
 # Welcome to Simple Serial Code – game activation system
 
 **I will show you how to setup everything step by step!**
