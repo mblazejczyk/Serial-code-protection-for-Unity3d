@@ -11,3 +11,8 @@ https://github.com/mblazejczyk/Serial-code-protection-for-Unity3d/tree/main/NoSQ
 
 Solution with database system:<br>
 https://github.com/mblazejczyk/Serial-code-protection-for-Unity3d/tree/main/Database-Driven(BetterSerialCodeProtection)
+
+## Videos
+[Old solution - installation tutorial](https://youtu.be/95Bs9fML8rY) <br>
+[New soltuion - installation tutorial](https://youtu.be/T9ajarxhUSE) <br>
+[New solution - overview](https://youtu.be/iYZDBh0cV-0)
